@@ -1,0 +1,28 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_olesya">
+			<key name="primary_text_color" />
+			<key name="secondary_text_color" />
+			<key name="primary_color" />
+			<key name="secondary_color" />
+			<key name="enable_preloader" />
+			<key name="preloader_bg_color" />
+			<key name="preloader_color" />
+			<key name="show_preloader" />
+			<key name="content_layout" />
+			<key name="sticky_label" />
+			<key name="content_display" />
+			<key name="posts_navigation" />
+			<key name="instagram_username" />
+			<key name="instagram_number" />
+			<key name="instagram_target" />
+			<key name="instagram_text_link" />
+			<key name="enable_slider" />
+			<key name="slides_num" />
+			<key name="slider_cat" />
+			<key name="slider_orderby" />
+			<key name="slider_order" />
+			<key name="slides_to_show" />
+        </key>
+    </admin-texts>
+</wpml-config>

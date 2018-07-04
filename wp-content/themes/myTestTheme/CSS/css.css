@@ -1,0 +1,23 @@
+
+
+/* css select for all elements including browser default
+
+* {
+
+}
+
+end comment */
+
+
+
+body {
+  background-image: url("https://image.freepik.com/free-psd/abstract-background-design_1297-87.jpg");
+  background-size: cover;
+  color: white;
+  width: 85%;
+  margin: 0 auto;
+}
+/* body of post */
+body.post {
+
+}

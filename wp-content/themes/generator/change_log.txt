@@ -1,0 +1,70 @@
+Version 1.0
+
+	i)   First Release. 
+	
+Version 2.0
+
+	i)   Added home page layout with Slider, touch friendly recent posts feature and a few other features.
+	
+Version: 2.0.1
+   
+    i) Removed widget control and added theme options for home page settings.
+	
+Version: 2.0.2	
+	
+	i) set fasterthemes.php file for wp-admin sub-menu
+
+Version: 2.0.3	
+	
+	i) set front-page.php as per template hierarchy
+	
+Version: 2.0.4	
+	
+	i) Home page bug fixed
+	
+Version: 2.0.5	
+	
+	i) Home page display bug from settings area - Fixed.
+	
+Version: 2.0.6
+	
+	i) Fixed responsive issues in css.
+	
+Version: 2.0.7
+	
+	i) Change FT Options logo.	
+	ii) Remove Space in Faster Themes.
+	
+Version 2.0.8
+	
+	i) Set TGM for pagination.
+	ii) Change copyright text condition.
+	iii) Change theme author uri in style.css.	
+	iv) Set css for pagination.
+	
+Version 2.1
+
+	i) Define TGM license in readme.txt
+	ii) Replace esc_url_raw with esc_url. 
+	iii) Change Theme Options layout.
+	iv) Remove ABSPATH.	
+	
+Version 2.1.1
+
+	i) Add screenshot image license in readme.txt 
+	ii) Add editor-style.css in css folder.	
+
+Version 2.1.2 (15 Nov 2014)
+    i) Fixed issue with fasterthemes-custom.js file which was causing broken admin menu 
+
+Version 2.2 (19 Nov 2014)
+    i) Changes made to the theme to make it "Translation Ready".
+
+Version 2.2.1 (04 Dec 2014)
+    i) Fixed "Translation ready" bugs.
+
+Version 2.2.2 (12 Dec 2014)
+    i) Fixed CSS issue.
+
+Version 2.2.3 (02 Jan 2017)
+    i) Minor fixes.

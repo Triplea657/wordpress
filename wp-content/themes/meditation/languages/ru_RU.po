@@ -1,0 +1,1359 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zxc\n"
+"POT-Creation-Date: 2017-08-13 23:51+0300\n"
+"PO-Revision-Date: 2017-08-14 01:29+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_n:1,2;_x:1,2c;_e;esc_attr_x;_x;esc_html_e;"
+"esc_html__\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPath-2: .\n"
+
+#: ../404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Эта страница не доступна."
+
+#: ../404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Мы не нашли запрашиваемую страницу, попробуйте воспользоваться поиском."
+
+#: ../archive.php:24
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Архив по дням: %s"
+
+#: ../archive.php:27
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Архив по месяцам: %s"
+
+#: ../archive.php:27
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:30
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Архив по годам: %s"
+
+#: ../archive.php:30
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:33
+msgid "Archives"
+msgstr "Архивы"
+
+#: ../author.php:25
+#, php-format
+msgid "All posts by %s"
+msgstr "Все записи автора %s"
+
+#: ../category.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Записи из категории: %s"
+
+#: ../comments.php:22
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий на &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария на &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев на &ldquo;%2$s&rdquo;"
+
+#: ../comments.php:39
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: ../comments.php:40
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: ../comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr "Свежие комментарии &rarr;"
+
+#: ../comments.php:46
+msgid "Comments are closed."
+msgstr "Комментирование закончено."
+
+#: ../content-archive.php:69
+msgid "<div class=\"meta-nav\">Continue reading... &rarr;</div>"
+msgstr "<div class=\"meta-nav\">Читать далее... &rarr;</div>"
+
+#: ../content-archive.php:82 ../content-page-archive.php:42
+#: ../content-page.php:38 ../content.php:69
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../content-none.php:15
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: ../content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Готоы опубликовать вашу первую запись? <a href=\"%1$s\">Ссылка на добавление "
+"новой записи</a>."
+
+#: ../content-none.php:27
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, по данному запросу не удалось найти записей, попробуйте "
+"использовать другие ключевые слова."
+
+#: ../content-none.php:32
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Мы не можем найти то, что вы запрашиваете, попробуйте воспользоваться "
+"поиском."
+
+#: ../content-page.php:30 ../content.php:52
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: ../content.php:51
+msgid "<div class=\"meta-nav\">Read more... &rarr;</div>"
+msgstr "<div class=\"meta-nav\">Читать далее... &rarr;</div>"
+
+#: ../functions.php:65 ../inc/customize-animate.php:75
+#: ../inc/customize-colors.php:201 ../inc/customize-colors.php:205
+#: ../inc/customize-fonts.php:229
+msgid "Menu"
+msgstr "Меню"
+
+#: ../functions.php:138
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: ../functions.php:460
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#: ../functions.php:464
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr "<span class=\"meta-nav\">Опубликовано в</span>%title"
+
+#: ../functions.php:466
+msgid "<span class=\"nav-next\">%title &rarr;</span>"
+msgstr "<span class=\"nav-next\">%title &rarr;</span>"
+
+#: ../functions.php:468
+msgid "<span class=\"nav-previous\">&larr; %title</span>"
+msgstr ""
+
+#: ../functions.php:471
+msgid "<span class=\"nav-previous-one\">&larr; %title</span>"
+msgstr ""
+
+#: ../functions.php:517
+msgid "&larr; Previous"
+msgstr "&larr; Предудыщая"
+
+#: ../functions.php:518
+msgid "Next &rarr;"
+msgstr "Следующая &rarr;"
+
+#: ../functions.php:525
+msgid "Posts navigation"
+msgstr "Навигация по записям"
+
+#: ../functions.php:640
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: ../functions.php:640
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: ../functions.php:640
+msgid "% Comments"
+msgstr "% Комментариев"
+
+#: ../functions.php:818
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../functions.php:818
+msgid "Powered by WordPress"
+msgstr "Работает на WordPress"
+
+#: ../functions.php:818
+msgid "theme "
+msgstr "тема "
+
+#: ../functions.php:818
+msgid "http://wpblogs.ru/themes/blog/theme/meditation/"
+msgstr ""
+
+#: ../functions.php:836
+msgid "See More"
+msgstr "Читать далее"
+
+#: ../functions.php:844
+msgid "Header Sidebar"
+msgstr "Верхний сайдбар"
+
+#: ../functions.php:849
+msgid "First column"
+msgstr "Первая колонка"
+
+#: ../functions.php:853
+msgid "Second column"
+msgstr "Вторая колонка"
+
+#: ../functions.php:857
+msgid "Footer Sidebar 1"
+msgstr "Футер 1"
+
+#: ../functions.php:861
+msgid "Footer Sidebar 2"
+msgstr "Футер 2"
+
+#: ../functions.php:865
+msgid "Footer Sidebar 3"
+msgstr "Футер 3"
+
+#: ../functions.php:874
+msgid "Static"
+msgstr "Статический"
+
+#: ../functions.php:882
+msgid "Default"
+msgstr "По умолчанию"
+
+#: ../functions.php:891
+msgid "Pages"
+msgstr "Страницы"
+
+#: ../functions.php:899 ../inc/customize-layout.php:830
+msgid "Archive"
+msgstr "Архив"
+
+#: ../functions.php:907
+msgid "Shop (Page)"
+msgstr "Магазин (Страница)"
+
+#: ../functions.php:915
+msgid "Shop (Archive)"
+msgstr "Магазин (Архив)"
+
+#: ../functions.php:923 ../inc/customize-animate.php:126
+#: ../inc/customize-layout.php:790
+msgid "Blog"
+msgstr "Блог"
+
+#: ../functions.php:931 ../functions.php:1489 ../inc/customize-layout.php:798
+msgid "Search"
+msgstr "Поиск"
+
+#: ../functions.php:939 ../inc/customize-layout.php:782
+msgid "Home"
+msgstr "Домашняя страница"
+
+#: ../functions.php:947
+msgid "Page 404"
+msgstr "Страница 404"
+
+#: ../inc/customize-animate.php:15
+msgid "Animation"
+msgstr "Анимация"
+
+#: ../inc/customize-animate.php:16
+msgid "Animation settings."
+msgstr "Настройки анимации"
+
+#: ../inc/customize-animate.php:21 ../inc/customize-fonts.php:195
+msgid "Header"
+msgstr "Заголовок"
+
+#: ../inc/customize-animate.php:34
+msgid "Header Effect"
+msgstr "Эффекты для заголовка"
+
+#: ../inc/customize-animate.php:39 ../inc/customize-animate.php:144
+#: ../inc/customize-animate.php:198 ../inc/customize-fonts.php:450
+#: ../inc/customize-other.php:41 ../inc/customize-other.php:59
+msgid "None"
+msgstr "Нет"
+
+#: ../inc/customize-animate.php:40
+msgid "1. Top Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:41
+msgid "2. 3d Center Cascade"
+msgstr ""
+
+#: ../inc/customize-animate.php:42
+msgid "3. Hidden Image"
+msgstr ""
+
+#: ../inc/customize-animate.php:43
+msgid "4. Hidden Image and Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:44
+msgid "5. Hidden Image and Zoom"
+msgstr ""
+
+#: ../inc/customize-animate.php:45
+msgid "6. Type Text"
+msgstr ""
+
+#: ../inc/customize-animate.php:46
+msgid "7. 3d Y Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:47
+msgid "8. 3d X Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:48
+msgid "9. 3d XY Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:49
+msgid "10. 3d Cascade Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:50
+msgid "11. 3d Cascade Bottom Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:51
+msgid "12. 3d Carusel"
+msgstr ""
+
+#: ../inc/customize-animate.php:52
+msgid "13. Left and Right Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:53
+msgid "14. Corner Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:54
+msgid "15. 3d Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:65 ../inc/customize-animate.php:170
+#: ../inc/customize-animate.php:224
+msgid "Restart Animation"
+msgstr "Перезапускать анимацию"
+
+#: ../inc/customize-animate.php:76
+msgid "Sticky Menu."
+msgstr "Фиксированное меню"
+
+#: ../inc/customize-animate.php:80 ../inc/customize-animate.php:90
+msgid "Sticky Menu"
+msgstr "Фиксированное меню"
+
+#: ../inc/customize-animate.php:103
+msgid "Menu Effect"
+msgstr "Эффекты для меню"
+
+#: ../inc/customize-animate.php:108 ../inc/customize-animate.php:199
+msgid "1. Simple"
+msgstr ""
+
+#: ../inc/customize-animate.php:109
+msgid "2. Type Text"
+msgstr ""
+
+#: ../inc/customize-animate.php:110
+msgid "3. Top Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:111
+msgid "4. Appear"
+msgstr ""
+
+#: ../inc/customize-animate.php:112
+msgid "5. Side Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:113
+msgid "6. Corner Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:114
+msgid "7. Appear and Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:115
+msgid "8. 2 Horisontal Pieces"
+msgstr ""
+
+#: ../inc/customize-animate.php:116
+msgid "9. Appear and Scale"
+msgstr ""
+
+#: ../inc/customize-animate.php:117
+msgid "10. Appear and Right Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:118
+msgid "11. Appear and Rotate"
+msgstr ""
+
+#: ../inc/customize-animate.php:119
+msgid "12. Rotate and Type Text"
+msgstr ""
+
+#: ../inc/customize-animate.php:120
+msgid "13. 2 Pieces"
+msgstr ""
+
+#: ../inc/customize-animate.php:121
+msgid "14. 2 Pieces Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:122
+msgid "15. Appear from Center"
+msgstr ""
+
+#: ../inc/customize-animate.php:139
+msgid "Blog Effect"
+msgstr ""
+
+#: ../inc/customize-animate.php:145
+msgid "1. Appear from Right"
+msgstr ""
+
+#: ../inc/customize-animate.php:146
+msgid "2. Appear from the Bottom"
+msgstr ""
+
+#: ../inc/customize-animate.php:147
+msgid "3. Step"
+msgstr ""
+
+#: ../inc/customize-animate.php:148
+msgid "4. Open"
+msgstr ""
+
+#: ../inc/customize-animate.php:149
+msgid "5. Border and Bottom Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:150
+msgid "6. Border and 3D Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:151
+msgid "7. Border and Top Move (Slow)"
+msgstr ""
+
+#: ../inc/customize-animate.php:152
+msgid "8. Border and Top Move (Fast)"
+msgstr ""
+
+#: ../inc/customize-animate.php:153
+msgid "9. Border and Side Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:154
+msgid "10. Border and Top Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:155
+msgid "11. Border and Bottom Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:156
+msgid "12. Border and Type Text"
+msgstr ""
+
+#: ../inc/customize-animate.php:157
+msgid "13. Border and Corner Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:158
+msgid "14. Border and Rotate"
+msgstr ""
+
+#: ../inc/customize-animate.php:159
+msgid "15. Border and Step"
+msgstr ""
+
+#: ../inc/customize-animate.php:180
+msgid "Sidebar"
+msgstr "Сайдбар"
+
+#: ../inc/customize-animate.php:193
+msgid "Sidebar Effect"
+msgstr "Эффекты для сайдбара"
+
+#: ../inc/customize-animate.php:200
+msgid "2. Bottom Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:201
+msgid "3. Corner Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:202
+msgid "4. Right Side Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:203
+msgid "5. Left Side Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:204
+msgid "6. Left and Right Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:205
+msgid "7. Title Bottom Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:206
+msgid "8. Title and Content Bottom Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:207
+msgid "9. Top and Bottom Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:208
+msgid "10. Top Title and Content Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:209
+msgid "11. Bottom and Left Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:210
+msgid "12. Left and Top Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:211
+msgid "13. Rotate and Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:212
+msgid "14. From Center"
+msgstr ""
+
+#: ../inc/customize-animate.php:213
+msgid "15. Move and Rotate"
+msgstr ""
+
+#: ../inc/customize-animate.php:233
+msgid "Fixed Widget"
+msgstr "Зафиксированный фиджет"
+
+#: ../inc/customize-animate.php:234
+msgid ""
+"Fixed widget will appear on the screen after last widget in the sidebar. In "
+"this section you can set number of the widget to be fixed on the screen."
+msgstr "Этот виджет будет появляться в самом низу колонки во время прокрутки."
+
+#: ../inc/customize-animate.php:246
+msgid "Stick widget in the left sidebar"
+msgstr "Закрепить виджет в левом сайдбаре"
+
+#: ../inc/customize-animate.php:259
+msgid "Widget position in the first column (any number from 1 to n)"
+msgstr "Порядковый номер виджета в первой колонке"
+
+#: ../inc/customize-animate.php:272
+msgid "Stick widget in the right sidebar"
+msgstr "Зафиксировать виджет в правой колонке"
+
+#: ../inc/customize-animate.php:285
+msgid "Widget position in the second column (any number from 1 to n)"
+msgstr "Порядковый номер виджета в правой колонке"
+
+#: ../inc/customize-colors-no-options.php:15 ../inc/customize-colors.php:852
+msgid "Colors"
+msgstr "Цвета"
+
+#: ../inc/customize-colors-no-options.php:16
+msgid "In this section you can choose color scheme."
+msgstr "В этой секции вы можете выбрать схему цветов"
+
+#: ../inc/customize-colors-no-options.php:20
+#: ../inc/customize-colors-no-options.php:33 ../inc/customize-colors.php:857
+#: ../inc/customize-colors.php:870
+msgid "Color Scheme"
+msgstr "Схема цветов"
+
+#: ../inc/customize-colors-no-options.php:21
+msgid "Select color scheme."
+msgstr "Выберете схему цветов"
+
+#: ../inc/customize-colors-no-options.php:39 ../inc/customize-colors.php:21
+msgid "Red and White"
+msgstr "Красный и белый"
+
+#: ../inc/customize-colors-no-options.php:40 ../inc/customize-colors.php:22
+msgid "Blue and White"
+msgstr "Синий и белый"
+
+#: ../inc/customize-colors-no-options.php:41 ../inc/customize-colors.php:23
+msgid "Orange and Green"
+msgstr "Оранжевый и зеленый"
+
+#: ../inc/customize-colors-no-options.php:42 ../inc/customize-colors.php:24
+msgid "Orange and Blue"
+msgstr "Оранжевый и синий"
+
+#: ../inc/customize-colors-no-options.php:43 ../inc/customize-colors.php:25
+msgid "Black and Red"
+msgstr "Черный и красный"
+
+#: ../inc/customize-colors-no-options.php:44 ../inc/customize-colors.php:26
+msgid "Black and Green"
+msgstr "Черный и зеленый"
+
+#: ../inc/customize-colors-no-options.php:45 ../inc/customize-colors.php:27
+msgid "Red and Yellow"
+msgstr "Красный и желтый"
+
+#: ../inc/customize-colors-no-options.php:46 ../inc/customize-colors.php:28
+msgid "Red and Dark Content"
+msgstr "Красный и темный контент"
+
+#: ../inc/customize-colors-no-options.php:47 ../inc/customize-colors.php:29
+msgid "Black Content"
+msgstr "Черный контент"
+
+#: ../inc/customize-colors-no-options.php:48 ../inc/customize-colors.php:30
+msgid "Orange Content"
+msgstr "Оранжевый контент"
+
+#: ../inc/customize-colors-no-options.php:49 ../inc/customize-colors.php:31
+msgid "Brown and Orange"
+msgstr "Коричневый и оранжевый"
+
+#: ../inc/customize-colors-no-options.php:50 ../inc/customize-colors.php:32
+msgid "Gray and White"
+msgstr "Серый и белый"
+
+#: ../inc/customize-colors-no-options.php:51 ../inc/customize-colors.php:33
+msgid "Gray Content"
+msgstr "Серый контент"
+
+#: ../inc/customize-colors-no-options.php:52 ../inc/customize-colors.php:34
+msgid "Blue and Magenta"
+msgstr "Голубой и розовый"
+
+#: ../inc/customize-colors-no-options.php:53 ../inc/customize-colors.php:35
+msgid "Dark Blue and White"
+msgstr "Темно-синий и белый"
+
+#: ../inc/customize-colors.php:41
+msgid "Main Colors"
+msgstr "Основные цвета"
+
+#: ../inc/customize-colors.php:41
+msgid "Main website colors"
+msgstr "Основные цвета"
+
+#: ../inc/customize-colors.php:47
+msgid "Header Background"
+msgstr "Фон заголовка"
+
+#: ../inc/customize-colors.php:66 ../inc/customize-fonts.php:212
+msgid "Description"
+msgstr "Описание"
+
+#: ../inc/customize-colors.php:85
+msgid "Description Background"
+msgstr "Фон описания"
+
+#: ../inc/customize-colors.php:104 ../inc/customize-colors.php:224
+#: ../inc/customize-colors.php:407 ../inc/customize-colors.php:565
+#: ../inc/customize-fonts.php:280
+msgid "Link"
+msgstr "Ссылка"
+
+#: ../inc/customize-colors.php:123
+msgid "Link Hover"
+msgstr "Ховер ссылки"
+
+#: ../inc/customize-colors.php:142
+msgid "H1-H6 heading"
+msgstr "H1-H6 заголовки"
+
+#: ../inc/customize-colors.php:161
+msgid "H1-H6 Link"
+msgstr "H1-H6 ссылка"
+
+#: ../inc/customize-colors.php:180
+msgid "Shadow color"
+msgstr "Цвет тени"
+
+#: ../inc/customize-colors.php:201
+msgid "Menu Colors"
+msgstr "Цвета для меню"
+
+#: ../inc/customize-colors.php:243
+msgid "Top Level Link Hover"
+msgstr "Ховер ссылки"
+
+#: ../inc/customize-colors.php:262
+msgid "Sub Menu Background"
+msgstr "Фон для подменю"
+
+#: ../inc/customize-colors.php:281
+msgid "Sub Menu Text"
+msgstr "Тест в подменю"
+
+#: ../inc/customize-colors.php:302 ../inc/customize-layout.php:618
+msgid "Content"
+msgstr "Содержимое"
+
+#: ../inc/customize-colors.php:302 ../inc/customize-colors.php:384
+#: ../inc/customize-colors.php:542
+msgid "Sidebar Colors"
+msgstr "Цвета боковых колонок"
+
+#: ../inc/customize-colors.php:306
+msgid "Content Background"
+msgstr "Цвета для содержимого"
+
+#: ../inc/customize-colors.php:325 ../inc/customize-colors.php:445
+#: ../inc/customize-colors.php:603 ../inc/customize-other.php:105
+msgid "Text"
+msgstr "Текст"
+
+#: ../inc/customize-colors.php:344
+msgid "Content Area Background"
+msgstr "Фон содержимого"
+
+#: ../inc/customize-colors.php:363
+msgid "Blog Content Background"
+msgstr "Фон содержимого на странице блога"
+
+#: ../inc/customize-colors.php:384 ../inc/customize-layout.php:170
+msgid "Columns"
+msgstr "Колонки"
+
+#: ../inc/customize-colors.php:388 ../inc/customize-colors.php:546
+msgid "Sidebar Background Color"
+msgstr "Фон сайдбара"
+
+#: ../inc/customize-colors.php:426 ../inc/customize-colors.php:584
+msgid "Hover"
+msgstr "Ховер"
+
+#: ../inc/customize-colors.php:464 ../inc/customize-colors.php:622
+msgid "Widget Title Background"
+msgstr "Фон заголовка виджета"
+
+#: ../inc/customize-colors.php:483 ../inc/customize-colors.php:641
+msgid "Widget Title Text"
+msgstr "Цвет заголовка виджета"
+
+#: ../inc/customize-colors.php:502 ../inc/customize-colors.php:660
+msgid "Title Border"
+msgstr "Бордюр заголовка"
+
+#: ../inc/customize-colors.php:521
+msgid "Column Border"
+msgstr "Бордюр колонки"
+
+#: ../inc/customize-colors.php:542
+msgid "Footer Sidebar"
+msgstr "Сайдбар в футере"
+
+#: ../inc/customize-colors.php:853
+msgid "In this section you can change colors for different elements."
+msgstr "В этой секции вы можете поменять цвета для разных элементов"
+
+#: ../inc/customize-colors.php:858
+msgid "This option refresh theme colors."
+msgstr "Эта настройка меняет цвета в теме"
+
+#: ../inc/customize-colors.php:916
+msgid "Opacity for the "
+msgstr "Прозрачность для "
+
+#: ../inc/customize-fonts.php:15 ../inc/customize-fonts.php:390
+msgid "Fonts"
+msgstr "Шрифты"
+
+#: ../inc/customize-fonts.php:16
+msgid "Choosing google fonts."
+msgstr "Выбор google шрифтов."
+
+#: ../inc/customize-fonts.php:23
+msgid "Google Fonts"
+msgstr "Google шрифты"
+
+#: ../inc/customize-fonts.php:24
+msgid "Copy and paste any Font Name from fonts.google.com"
+msgstr "Скопируйте любое название шрифта с сайта fonts.google.com"
+
+#: ../inc/customize-fonts.php:37
+msgid "Font-1 Name"
+msgstr "Имя шрифта 1"
+
+#: ../inc/customize-fonts.php:69
+msgid "Font-2 Name"
+msgstr "Имя шрифта 2"
+
+#: ../inc/customize-fonts.php:100
+msgid "Font-3 Name"
+msgstr "Имя шрифта 3"
+
+#: ../inc/customize-fonts.php:130
+msgid "Add cyrillic subset"
+msgstr "Добавить кирилицу"
+
+#: ../inc/customize-fonts.php:142
+msgid "Add greek subset"
+msgstr "Добавить греческий"
+
+#: ../inc/customize-fonts.php:154
+msgid "Add vietnamese subset"
+msgstr "Добавить вьетнамский"
+
+#: ../inc/customize-fonts.php:163
+msgid "Google Fonts in Theme"
+msgstr "Шрифты Google в теме"
+
+#: ../inc/customize-fonts.php:164
+msgid "Apply Google Fonts to the theme"
+msgstr "Выбор шрифта для отдельного элемента темы"
+
+#: ../inc/customize-fonts.php:178
+msgid "Main Font"
+msgstr "Основной шрифт"
+
+#: ../inc/customize-fonts.php:246
+msgid "Sub Menu"
+msgstr "Подменю"
+
+#: ../inc/customize-fonts.php:263
+msgid "H1-H6 Headings"
+msgstr "Заголовки H1-H6 "
+
+#: ../inc/customize-fonts.php:297
+msgid "Category and Tags"
+msgstr "Категории и тэги"
+
+#: ../inc/customize-fonts.php:314
+msgid "Meta Data"
+msgstr "Метаданные"
+
+#: ../inc/customize-fonts.php:331
+msgid "Widget"
+msgstr "Виджеты"
+
+#: ../inc/customize-fonts.php:348
+msgid "Widget Title"
+msgstr "Заголовки виджето"
+
+#: ../inc/customize-fonts.php:365
+msgid "Widget Link"
+msgstr "Ссылки в виджетах"
+
+#: ../inc/customize-fonts.php:375
+msgid "Font Schemes"
+msgstr "Схема шрифтов"
+
+#: ../inc/customize-fonts.php:376
+msgid "Default Font Scheme"
+msgstr "Основная схема шрифтов"
+
+#: ../inc/customize-fonts.php:395
+msgid "Scheme 1"
+msgstr "Схема 1"
+
+#: ../inc/customize-fonts.php:396
+msgid "Scheme 2"
+msgstr "Схема 2"
+
+#: ../inc/customize-fonts.php:397
+msgid "Scheme 3"
+msgstr "Схема 3"
+
+#: ../inc/customize-fonts.php:398
+msgid "Scheme 4"
+msgstr "Схема 4"
+
+#: ../inc/customize-fonts.php:399
+msgid "Scheme 5"
+msgstr "Схема 5"
+
+#: ../inc/customize-fonts.php:400
+msgid "Scheme 6"
+msgstr "Схема 6"
+
+#: ../inc/customize-fonts.php:401
+msgid "Scheme 7"
+msgstr "Схема 7"
+
+#: ../inc/customize-fonts.php:402
+msgid "Scheme 8"
+msgstr "Схема 8"
+
+#: ../inc/customize-fonts.php:901
+msgid "none"
+msgstr "Нет"
+
+#: ../inc/customize-fonts.php:901
+msgid "Font 1"
+msgstr "Шрифт 1"
+
+#: ../inc/customize-fonts.php:901
+msgid "Font 2"
+msgstr "Шрифт 2"
+
+#: ../inc/customize-fonts.php:901
+msgid "Font 3"
+msgstr "Шрифт 3"
+
+#: ../inc/customize-info.php:44
+msgid "Hi! Thank you for using Meditation! Help to the author by donation!"
+msgstr ""
+"Спасибо за использование темы Meditation! Помогите автору пожертвованием!"
+
+#: ../inc/customize-info.php:55
+msgid ""
+"Send your questions to WordPress support forums or directly to the author at "
+"infowpblogs@gmail.com"
+msgstr ""
+"Посылайте ваши вопросы по теме на форум поддержки WordPress или автору на "
+"почту infowpblogs@gmail.com"
+
+#: ../inc/customize-info.php:63 ../inc/customize-info.php:74
+#: ../inc/customize-info.php:75
+msgid "Donate"
+msgstr "Пожертвования"
+
+#: ../inc/customize-info.php:90 ../inc/customize-info.php:91
+msgid "View Support forum"
+msgstr "Открыть форум поддержки"
+
+#: ../inc/customize-info.php:106
+msgid "View Documentation"
+msgstr "Открыть документацию"
+
+#: ../inc/customize-info.php:107
+msgid "Open"
+msgstr "Открыть"
+
+#: ../inc/customize-layout.php:16
+msgid "Layout"
+msgstr "Расположение"
+
+#: ../inc/customize-layout.php:17
+msgid "In this section you can change theme layout."
+msgstr "В этой секции вы можете выбрать расположение элементов темы."
+
+#: ../inc/customize-layout.php:25
+msgid "Site size"
+msgstr "Размер сайта"
+
+#: ../inc/customize-layout.php:42
+msgid "Width of the site"
+msgstr "Ширина сайта"
+
+#: ../inc/customize-layout.php:58 ../inc/customize-layout.php:96
+msgid "(px)"
+msgstr ""
+
+#: ../inc/customize-layout.php:80
+msgid "Width of the content area"
+msgstr "Ширина контента"
+
+#: ../inc/customize-layout.php:115
+msgid "Content style"
+msgstr "Стиль содержимого"
+
+#: ../inc/customize-layout.php:120 ../inc/customize-layout.php:137
+msgid "Boxed"
+msgstr "С отступами"
+
+#: ../inc/customize-layout.php:121 ../inc/customize-layout.php:138
+#: ../inc/customize-layout.php:639
+msgid "Full Width"
+msgstr "Без отступов"
+
+#: ../inc/customize-layout.php:132
+msgid "Website style"
+msgstr "Стиль сайта"
+
+#: ../inc/customize-layout.php:145
+msgid "Featured Image"
+msgstr "Избранное изображение"
+
+#: ../inc/customize-layout.php:146
+msgid "Image Size"
+msgstr "Размер изображения"
+
+#: ../inc/customize-layout.php:158
+msgid ""
+"Width of the Featured Image (Images should be updated with Regenerate "
+"Thumbnails plugin)."
+msgstr ""
+"Ширина Избранной картинки (после изменений этого параметра следует "
+"воспользоваться плагином Regenerate Thumbnails)"
+
+#: ../inc/customize-layout.php:171
+msgid "Size of columns"
+msgstr "Ширина колонок"
+
+#: ../inc/customize-layout.php:186
+msgid "Width of the first column (in case of two sidebars)"
+msgstr "Ширина первой колонки (когда 2 сайдбара на странице)"
+
+#: ../inc/customize-layout.php:202 ../inc/customize-layout.php:238
+#: ../inc/customize-layout.php:274 ../inc/customize-layout.php:310
+msgid "(%)"
+msgstr ""
+
+#: ../inc/customize-layout.php:223
+msgid "Width of the second column (two sidebars layout)"
+msgstr "Ширина второй колонки (когда 2 сайдбара на странице)"
+
+#: ../inc/customize-layout.php:258
+msgid "Width of the left column (1 sidebar layout)"
+msgstr "Ширина левой колонки (когда один сайдбар на странице)"
+
+#: ../inc/customize-layout.php:294
+msgid "Width of the right column (1 sidebar layout)"
+msgstr "Ширина правой колонки (когда один сайдбар на странице)"
+
+#: ../inc/customize-layout.php:334
+msgid "Display the footer on the front page"
+msgstr "Показывать футер на заглавной странице"
+
+#: ../inc/customize-layout.php:345
+msgid "Post"
+msgstr "Записи"
+
+#: ../inc/customize-layout.php:346
+msgid "Post settings."
+msgstr "Настройки для записей:"
+
+#: ../inc/customize-layout.php:358
+msgid "Post style"
+msgstr "Стиль страницы записей"
+
+#: ../inc/customize-layout.php:375
+msgid "Button \"Read More\" Text"
+msgstr "Текст кнопки \"читать далее\""
+
+#: ../inc/customize-layout.php:389
+msgid "Display an empty icon"
+msgstr "Показывать пустую иконку"
+
+#: ../inc/customize-layout.php:404
+msgid "Display the post author"
+msgstr "Показывать автора записи"
+
+#: ../inc/customize-layout.php:419 ../inc/customize-layout.php:539
+msgid "Display the post date"
+msgstr "Показывать дату записи"
+
+#: ../inc/customize-layout.php:434
+msgid "Display the post views (from Jatpack plugin)"
+msgstr "Показывать количество просмотров (из плагина Jatpack)"
+
+#: ../inc/customize-layout.php:449
+msgid "Display the link to post comments"
+msgstr "Показывать ссылку на комментарии"
+
+#: ../inc/customize-layout.php:464
+msgid "Display meta text"
+msgstr "Показывать мета текст"
+
+#: ../inc/customize-layout.php:479 ../inc/customize-layout.php:602
+msgid "Display Featured Image"
+msgstr "Показывать избранную картинку"
+
+#: ../inc/customize-layout.php:494
+msgid "Display Category List"
+msgstr "Показывать список категорий"
+
+#: ../inc/customize-layout.php:509
+msgid "Display Tag List"
+msgstr "Показывать список меток"
+
+#: ../inc/customize-layout.php:524
+msgid "Display the author"
+msgstr "Показывать автора"
+
+#: ../inc/customize-layout.php:554
+msgid "Display views (from Jatpack plugin)"
+msgstr "Показывать количество просмотров (плагин Jatpack)"
+
+#: ../inc/customize-layout.php:569
+msgid "Display link to comments"
+msgstr "Показывать ссылку на комментарии"
+
+#: ../inc/customize-layout.php:586
+msgid "Page style"
+msgstr "Стиль страницы"
+
+#: ../inc/customize-layout.php:617
+msgid "Excerpt"
+msgstr "Цитата"
+
+#: ../inc/customize-layout.php:619
+msgid "No Content"
+msgstr "Без текста"
+
+#: ../inc/customize-layout.php:640
+msgid "Left Column"
+msgstr "Левая колонка"
+
+#: ../inc/customize-layout.php:641
+msgid "Right Column"
+msgstr "Правая колонка"
+
+#: ../inc/customize-layout.php:642
+msgid "Two Columns"
+msgstr "Две колонки"
+
+#: ../inc/customize-layout.php:654
+msgid "1 column"
+msgstr "1 колонка"
+
+#: ../inc/customize-layout.php:655
+msgid "2 columns"
+msgstr "2 колонки"
+
+#: ../inc/customize-layout.php:656
+msgid "3 columns"
+msgstr "3 колонки"
+
+#: ../inc/customize-layout.php:657
+msgid "4 columns"
+msgstr "4 колонки"
+
+#: ../inc/customize-layout.php:806
+msgid "Shop"
+msgstr "Магазин"
+
+#: ../inc/customize-layout.php:814
+msgid "Shop Page"
+msgstr "Страница магазина"
+
+#: ../inc/customize-layout.php:822
+msgid "Page"
+msgstr "Страница"
+
+#: ../inc/customize-layout.php:838
+msgid "Post (Default)"
+msgstr "Записи (настройки по умолчанию)"
+
+#: ../inc/customize-layout.php:924
+msgid "Layout settings for "
+msgstr "Настройки расположения для "
+
+#: ../inc/customize-layout.php:936
+msgid " layout"
+msgstr "Расположение"
+
+#: ../inc/customize-layout.php:954
+msgid " layout (content)"
+msgstr "Количество колонок"
+
+#: ../inc/customize-other.php:15
+msgid "Other"
+msgstr "Другое"
+
+#: ../inc/customize-other.php:16
+msgid "All other settings."
+msgstr "Все другие настройки."
+
+#: ../inc/customize-other.php:23
+msgid "Scroll To Top Button"
+msgstr "Кнопка прокрутки к началу сайта"
+
+#: ../inc/customize-other.php:36
+msgid "How to display the scroll to top button"
+msgstr "Как показывать кнопку"
+
+#: ../inc/customize-other.php:42
+msgid "Right"
+msgstr "Справа"
+
+#: ../inc/customize-other.php:43
+msgid "Left"
+msgstr "Слева"
+
+#: ../inc/customize-other.php:44
+msgid "Center"
+msgstr "По центру"
+
+#: ../inc/customize-other.php:54
+msgid "How to animate the scroll to top button"
+msgstr "Как анимировать кнопку"
+
+#: ../inc/customize-other.php:60
+msgid "Jump"
+msgstr "Прыжок"
+
+#: ../inc/customize-other.php:70
+msgid "Display Header Image on the Front Page only"
+msgstr "Показывать заголовок только на главной странице"
+
+#: ../inc/customize-other.php:84
+msgid "Display Header Text on the Front Page only"
+msgstr "Показывать текст заголовка только на главной странице"
+
+#: ../inc/customize-other.php:93
+msgid "Footer text"
+msgstr "Текст в футере сайта"
+
+#: ../inc/customize-sidebars.php:23
+msgid "You can add custom sidebars for the page(s) \""
+msgstr ""
+
+#: ../inc/customize-sidebars.php:23
+msgid ""
+"\" by selecting options in this section. Default sidebars won't be shown on "
+"this page(s)."
+msgstr ""
+
+#: ../inc/customize-sidebars.php:24
+msgid "Default sidebars for all pages, post and custom post types."
+msgstr "Сайдбары по умолчанию для всех страниц, записей и архивов."
+
+#: ../inc/customize-sidebars.php:39
+msgid "Register default sidebars for all pages"
+msgstr ""
+
+#: ../inc/customize-sidebars.php:41
+msgid "Add custom sidebars to "
+msgstr ""
+
+#: ../inc/customize-sidebars.php:41
+msgid "."
+msgstr ""
+
+#: ../inc/customize-sidebars.php:76
+msgid "Page ["
+msgstr ""
+
+#: ../inc/customize-sidebars.php:77
+msgid "Per page sidebars for the page ["
+msgstr ""
+
+#: ../inc/customize-sidebars.php:92
+msgid "Uncheck this mark to remove section and custom sidebars for the page ["
+msgstr ""
+
+#: ../inc/customize-sidebars.php:196
+msgid "["
+msgstr ""
+
+#: ../inc/customize-sidebars.php:196
+msgid "] "
+msgstr ""
+
+#: ../inc/customize.php:16 ../inc/customize.php:22
+msgid "Options"
+msgstr "Настройки"
+
+#: ../inc/customize.php:17
+msgid "Theme options."
+msgstr "Настройки темы."
+
+#: ../inc/customize.php:35
+msgid "Display Custom Colors Panel"
+msgstr "Показывать панель цветов"
+
+#: ../inc/customize.php:51
+msgid "Display Theme Default Widgets"
+msgstr "Показывать виджеты по умолчанию"
+
+#: ../inc/customize.php:60
+msgid "Header Color"
+msgstr "Цвет заголовка"
+
+#: ../inc/customize.php:67
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: ../inc/social-media-widget.php:12
+msgid "Display Social Media Links."
+msgstr "Показывает ссылки на социальные сети"
+
+#: ../inc/social-media-widget.php:21
+msgid "Social Media Icons"
+msgstr "Иконки социальных сетей"
+
+#: ../inc/social-media-widget.php:80
+msgid "Title: "
+msgstr "Заголовок:"
+
+#: ../inc/social-media-widget.php:82
+msgid "Small Icons."
+msgstr "Маленькие иконки."
+
+#: ../inc/social-media-widget.php:83
+msgid "Vertical Icons."
+msgstr "Вертикальные иконки."
+
+#: ../inc/widget-functions.php:81
+msgid "Image Url or Id:"
+msgstr "Ссылка на картинку или id:"
+
+#: ../inc/widget-functions.php:83 ../inc/widget-functions.php:106
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: ../inc/widget-functions.php:104
+msgid "Url:"
+msgstr "Ссылка:"
+
+#: ../page-templates/full-contact.php:9
+msgid "Contact Template"
+msgstr "Шаблон для контактной формы из Jetpack"
+
+#: ../page-templates/full-width.php:9
+msgid "Full Width Template"
+msgstr "Страница без колонок"
+
+#: ../page-templates/left-sidebar.php:9
+msgid "Left Sidebar"
+msgstr "Левая колонка"
+
+#: ../page-templates/right-sidebar.php:9
+msgid "Right Sidebar"
+msgstr "Правая колонка"
+
+#: ../page-templates/two-sidebars.php:9
+msgid "Two Sidebars"
+msgstr "Две колонки"
+
+#: ../search.php:21
+#, php-format
+msgid "Search results for: %s"
+msgstr "Результаты поиска по запросу: %s"
+
+#: ../tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Архив метки: %s"

@@ -1,0 +1,1350 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: zxc\n"
+"POT-Creation-Date: 2017-10-05 23:34+0300\n"
+"PO-Revision-Date: 2015-08-13 11:15+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_n:1,2;_x:1,2c;_e;esc_attr_x;_x;esc_html_e;"
+"esc_html__\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPath-2: .\n"
+
+#: ../404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../archive.php:24
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:27
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:27
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:30
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:30
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:33
+msgid "Archives"
+msgstr ""
+
+#: ../author.php:25
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../category.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../comments.php:24
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../comments.php:54
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:55
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-archive.php:69
+msgid "<div class=\"meta-nav\">Continue reading... &rarr;</div>"
+msgstr ""
+
+#: ../content-archive.php:82 ../content-page-archive.php:42
+#: ../content-page.php:39 ../content.php:70
+msgid "Edit"
+msgstr ""
+
+#: ../content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:27
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:32
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-page.php:30 ../content.php:52
+msgid "Pages:"
+msgstr ""
+
+#: ../content.php:51
+msgid "<div class=\"meta-nav\">Read more... &rarr;</div>"
+msgstr ""
+
+#: ../functions.php:65 ../functions.php:138
+msgid "Top Menu"
+msgstr ""
+
+#: ../functions.php:460
+msgid "Post navigation"
+msgstr ""
+
+#: ../functions.php:464
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr ""
+
+#: ../functions.php:466
+msgid "<span class=\"nav-next\">%title &rarr;</span>"
+msgstr ""
+
+#: ../functions.php:468
+msgid "<span class=\"nav-previous\">&larr; %title</span>"
+msgstr ""
+
+#: ../functions.php:471
+msgid "<span class=\"nav-previous-one\">&larr; %title</span>"
+msgstr ""
+
+#: ../functions.php:517
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../functions.php:518
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../functions.php:525
+msgid "Posts navigation"
+msgstr ""
+
+#: ../functions.php:640
+msgid "Leave a comment"
+msgstr ""
+
+#: ../functions.php:640
+msgid "1 Comment"
+msgstr ""
+
+#: ../functions.php:640
+msgid "% Comments"
+msgstr ""
+
+#: ../functions.php:818
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../functions.php:818
+msgid "Powered by WordPress"
+msgstr ""
+
+#: ../functions.php:818
+msgid "theme "
+msgstr ""
+
+#: ../functions.php:818
+msgid "https://visualpharm.com/wpblogs/themes/theme/meditation/"
+msgstr ""
+
+#: ../functions.php:836
+msgid "See More"
+msgstr ""
+
+#: ../functions.php:845
+msgid "First column"
+msgstr ""
+
+#: ../functions.php:849
+msgid "Second column"
+msgstr ""
+
+#: ../functions.php:853
+msgid "Header Sidebar"
+msgstr ""
+
+#: ../functions.php:857
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: ../functions.php:861
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: ../functions.php:865
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: ../functions.php:874
+msgid "Static"
+msgstr ""
+
+#: ../functions.php:882
+msgid "Default"
+msgstr ""
+
+#: ../functions.php:891
+msgid "Pages"
+msgstr ""
+
+#: ../functions.php:899 ../inc/customize-layout.php:832
+msgid "Archive"
+msgstr ""
+
+#: ../functions.php:909
+msgid "Shop (Page)"
+msgstr ""
+
+#: ../functions.php:917
+msgid "Shop (Archive)"
+msgstr ""
+
+#: ../functions.php:926 ../inc/customize-animate.php:126
+#: ../inc/customize-layout.php:790
+msgid "Blog"
+msgstr ""
+
+#: ../functions.php:934 ../functions.php:1500 ../inc/customize-layout.php:798
+msgid "Search"
+msgstr ""
+
+#: ../functions.php:942 ../inc/customize-layout.php:782
+msgid "Home"
+msgstr ""
+
+#: ../functions.php:950
+msgid "Page 404"
+msgstr ""
+
+#: ../inc/customize-animate.php:15
+msgid "Animation"
+msgstr ""
+
+#: ../inc/customize-animate.php:16
+msgid "Animation settings."
+msgstr ""
+
+#: ../inc/customize-animate.php:21 ../inc/customize-fonts.php:195
+msgid "Header"
+msgstr ""
+
+#: ../inc/customize-animate.php:34
+msgid "Header Effect"
+msgstr ""
+
+#: ../inc/customize-animate.php:39 ../inc/customize-animate.php:144
+#: ../inc/customize-animate.php:198 ../inc/customize-fonts.php:450
+#: ../inc/customize-other.php:41 ../inc/customize-other.php:59
+msgid "None"
+msgstr ""
+
+#: ../inc/customize-animate.php:40
+msgid "1. Top Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:41
+msgid "2. 3d Center Cascade"
+msgstr ""
+
+#: ../inc/customize-animate.php:42
+msgid "3. Hidden Image"
+msgstr ""
+
+#: ../inc/customize-animate.php:43
+msgid "4. Hidden Image and Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:44
+msgid "5. Hidden Image and Zoom"
+msgstr ""
+
+#: ../inc/customize-animate.php:45
+msgid "6. Type Text"
+msgstr ""
+
+#: ../inc/customize-animate.php:46
+msgid "7. 3d Y Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:47
+msgid "8. 3d X Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:48
+msgid "9. 3d XY Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:49
+msgid "10. 3d Cascade Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:50
+msgid "11. 3d Cascade Bottom Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:51
+msgid "12. 3d Carusel"
+msgstr ""
+
+#: ../inc/customize-animate.php:52
+msgid "13. Left and Right Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:53
+msgid "14. Corner Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:54
+msgid "15. 3d Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:65 ../inc/customize-animate.php:170
+#: ../inc/customize-animate.php:224
+msgid "Restart Animation"
+msgstr ""
+
+#: ../inc/customize-animate.php:75 ../inc/customize-colors.php:201
+#: ../inc/customize-colors.php:205 ../inc/customize-fonts.php:229
+msgid "Menu"
+msgstr ""
+
+#: ../inc/customize-animate.php:76
+msgid "Sticky Menu."
+msgstr ""
+
+#: ../inc/customize-animate.php:80 ../inc/customize-animate.php:90
+msgid "Sticky Menu"
+msgstr ""
+
+#: ../inc/customize-animate.php:103
+msgid "Menu Effect"
+msgstr ""
+
+#: ../inc/customize-animate.php:108 ../inc/customize-animate.php:199
+msgid "1. Simple"
+msgstr ""
+
+#: ../inc/customize-animate.php:109
+msgid "2. Type Text"
+msgstr ""
+
+#: ../inc/customize-animate.php:110
+msgid "3. Top Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:111
+msgid "4. Appear"
+msgstr ""
+
+#: ../inc/customize-animate.php:112
+msgid "5. Side Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:113
+msgid "6. Corner Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:114
+msgid "7. Appear and Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:115
+msgid "8. 2 Horisontal Pieces"
+msgstr ""
+
+#: ../inc/customize-animate.php:116
+msgid "9. Appear and Scale"
+msgstr ""
+
+#: ../inc/customize-animate.php:117
+msgid "10. Appear and Right Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:118
+msgid "11. Appear and Rotate"
+msgstr ""
+
+#: ../inc/customize-animate.php:119
+msgid "12. Rotate and Type Text"
+msgstr ""
+
+#: ../inc/customize-animate.php:120
+msgid "13. 2 Pieces"
+msgstr ""
+
+#: ../inc/customize-animate.php:121
+msgid "14. 2 Pieces Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:122
+msgid "15. Appear from Center"
+msgstr ""
+
+#: ../inc/customize-animate.php:139
+msgid "Blog Effect"
+msgstr ""
+
+#: ../inc/customize-animate.php:145
+msgid "1. Appear from Right"
+msgstr ""
+
+#: ../inc/customize-animate.php:146
+msgid "2. Appear from the Bottom"
+msgstr ""
+
+#: ../inc/customize-animate.php:147
+msgid "3. Step"
+msgstr ""
+
+#: ../inc/customize-animate.php:148
+msgid "4. Open"
+msgstr ""
+
+#: ../inc/customize-animate.php:149
+msgid "5. Border and Bottom Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:150
+msgid "6. Border and 3D Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:151
+msgid "7. A Fall"
+msgstr ""
+
+#: ../inc/customize-animate.php:152
+msgid "8. Border and Top Move (Fast)"
+msgstr ""
+
+#: ../inc/customize-animate.php:153
+msgid "9. Left Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:154
+msgid "10. Step Appear 1"
+msgstr ""
+
+#: ../inc/customize-animate.php:155
+msgid "11. Step Appear 2"
+msgstr ""
+
+#: ../inc/customize-animate.php:156
+msgid "12. Rotate Border"
+msgstr ""
+
+#: ../inc/customize-animate.php:157
+msgid "13. Border and Corner Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:158
+msgid "14. Border and Rotate"
+msgstr ""
+
+#: ../inc/customize-animate.php:159
+msgid "15. Border and Step"
+msgstr ""
+
+#: ../inc/customize-animate.php:180
+msgid "Sidebar"
+msgstr ""
+
+#: ../inc/customize-animate.php:193
+msgid "Sidebar Effect"
+msgstr ""
+
+#: ../inc/customize-animate.php:200
+msgid "2. Bottom Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:201
+msgid "3. Corner Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:202
+msgid "4. Right Side Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:203
+msgid "5. Left Side Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:204
+msgid "6. Left and Right Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:205
+msgid "7. Title Bottom Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:206
+msgid "8. Title and Content Bottom Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:207
+msgid "9. Top and Bottom Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:208
+msgid "10. Top Title and Content Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:209
+msgid "11. Bottom and Left Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:210
+msgid "12. Left and Top Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:211
+msgid "13. Rotate and Move"
+msgstr ""
+
+#: ../inc/customize-animate.php:212
+msgid "14. From Center"
+msgstr ""
+
+#: ../inc/customize-animate.php:213
+msgid "15. Move and Rotate"
+msgstr ""
+
+#: ../inc/customize-animate.php:233
+msgid "Fixed Widget"
+msgstr ""
+
+#: ../inc/customize-animate.php:234
+msgid ""
+"Fixed widget will appear on the screen after last widget in the sidebar. In "
+"this section you can set number of the widget to be fixed on the screen."
+msgstr ""
+
+#: ../inc/customize-animate.php:246
+msgid "Stick widget in the left sidebar"
+msgstr ""
+
+#: ../inc/customize-animate.php:259
+msgid "Widget position in the first column (any number from 1 to n)"
+msgstr ""
+
+#: ../inc/customize-animate.php:272
+msgid "Stick widget in the right sidebar"
+msgstr ""
+
+#: ../inc/customize-animate.php:285
+msgid "Widget position in the second column (any number from 1 to n)"
+msgstr ""
+
+#: ../inc/customize-colors-no-options.php:15 ../inc/customize-colors.php:852
+msgid "Colors"
+msgstr ""
+
+#: ../inc/customize-colors-no-options.php:16
+msgid "In this section you can choose color scheme."
+msgstr ""
+
+#: ../inc/customize-colors-no-options.php:20
+#: ../inc/customize-colors-no-options.php:33 ../inc/customize-colors.php:857
+#: ../inc/customize-colors.php:870
+msgid "Color Scheme"
+msgstr ""
+
+#: ../inc/customize-colors-no-options.php:21
+msgid "Select color scheme."
+msgstr ""
+
+#: ../inc/customize-colors-no-options.php:39 ../inc/customize-colors.php:21
+msgid "Red and White"
+msgstr ""
+
+#: ../inc/customize-colors-no-options.php:40 ../inc/customize-colors.php:22
+msgid "Blue and White"
+msgstr ""
+
+#: ../inc/customize-colors-no-options.php:41 ../inc/customize-colors.php:23
+msgid "Orange and Green"
+msgstr ""
+
+#: ../inc/customize-colors-no-options.php:42 ../inc/customize-colors.php:24
+msgid "Orange and Blue"
+msgstr ""
+
+#: ../inc/customize-colors-no-options.php:43 ../inc/customize-colors.php:25
+msgid "Black and Red"
+msgstr ""
+
+#: ../inc/customize-colors-no-options.php:44 ../inc/customize-colors.php:26
+msgid "Black and Green"
+msgstr ""
+
+#: ../inc/customize-colors-no-options.php:45 ../inc/customize-colors.php:27
+msgid "Red and Yellow"
+msgstr ""
+
+#: ../inc/customize-colors-no-options.php:46 ../inc/customize-colors.php:28
+msgid "Red and Dark Content"
+msgstr ""
+
+#: ../inc/customize-colors-no-options.php:47 ../inc/customize-colors.php:29
+msgid "Black Content"
+msgstr ""
+
+#: ../inc/customize-colors-no-options.php:48 ../inc/customize-colors.php:30
+msgid "Orange Content"
+msgstr ""
+
+#: ../inc/customize-colors-no-options.php:49 ../inc/customize-colors.php:31
+msgid "Brown and Orange"
+msgstr ""
+
+#: ../inc/customize-colors-no-options.php:50 ../inc/customize-colors.php:32
+msgid "Gray and White"
+msgstr ""
+
+#: ../inc/customize-colors-no-options.php:51 ../inc/customize-colors.php:33
+msgid "Gray Content"
+msgstr ""
+
+#: ../inc/customize-colors-no-options.php:52 ../inc/customize-colors.php:34
+msgid "Blue and Magenta"
+msgstr ""
+
+#: ../inc/customize-colors-no-options.php:53 ../inc/customize-colors.php:35
+msgid "Dark Blue and White"
+msgstr ""
+
+#: ../inc/customize-colors.php:41
+msgid "Main Colors"
+msgstr ""
+
+#: ../inc/customize-colors.php:41
+msgid "Main website colors"
+msgstr ""
+
+#: ../inc/customize-colors.php:47
+msgid "Header Background"
+msgstr ""
+
+#: ../inc/customize-colors.php:66 ../inc/customize-fonts.php:212
+msgid "Description"
+msgstr ""
+
+#: ../inc/customize-colors.php:85
+msgid "Description Background"
+msgstr ""
+
+#: ../inc/customize-colors.php:104 ../inc/customize-colors.php:224
+#: ../inc/customize-colors.php:407 ../inc/customize-colors.php:565
+#: ../inc/customize-fonts.php:280
+msgid "Link"
+msgstr ""
+
+#: ../inc/customize-colors.php:123
+msgid "Link Hover"
+msgstr ""
+
+#: ../inc/customize-colors.php:142
+msgid "H1-H6 heading"
+msgstr ""
+
+#: ../inc/customize-colors.php:161
+msgid "H1-H6 Link"
+msgstr ""
+
+#: ../inc/customize-colors.php:180
+msgid "Shadow color"
+msgstr ""
+
+#: ../inc/customize-colors.php:201
+msgid "Menu Colors"
+msgstr ""
+
+#: ../inc/customize-colors.php:243
+msgid "Top Level Link Hover"
+msgstr ""
+
+#: ../inc/customize-colors.php:262
+msgid "Sub Menu Background"
+msgstr ""
+
+#: ../inc/customize-colors.php:281
+msgid "Sub Menu Text"
+msgstr ""
+
+#: ../inc/customize-colors.php:302 ../inc/customize-layout.php:618
+msgid "Content"
+msgstr ""
+
+#: ../inc/customize-colors.php:302 ../inc/customize-colors.php:384
+#: ../inc/customize-colors.php:542
+msgid "Sidebar Colors"
+msgstr ""
+
+#: ../inc/customize-colors.php:306
+msgid "Content Background"
+msgstr ""
+
+#: ../inc/customize-colors.php:325 ../inc/customize-colors.php:445
+#: ../inc/customize-colors.php:603 ../inc/customize-other.php:105
+msgid "Text"
+msgstr ""
+
+#: ../inc/customize-colors.php:344
+msgid "Content Area Background"
+msgstr ""
+
+#: ../inc/customize-colors.php:363
+msgid "Blog Content Background"
+msgstr ""
+
+#: ../inc/customize-colors.php:384 ../inc/customize-layout.php:170
+msgid "Columns"
+msgstr ""
+
+#: ../inc/customize-colors.php:388 ../inc/customize-colors.php:546
+msgid "Sidebar Background Color"
+msgstr ""
+
+#: ../inc/customize-colors.php:426 ../inc/customize-colors.php:584
+msgid "Hover"
+msgstr ""
+
+#: ../inc/customize-colors.php:464 ../inc/customize-colors.php:622
+msgid "Widget Title Background"
+msgstr ""
+
+#: ../inc/customize-colors.php:483 ../inc/customize-colors.php:641
+msgid "Widget Title Text"
+msgstr ""
+
+#: ../inc/customize-colors.php:502 ../inc/customize-colors.php:660
+msgid "Title Border"
+msgstr ""
+
+#: ../inc/customize-colors.php:521
+msgid "Column Border"
+msgstr ""
+
+#: ../inc/customize-colors.php:542
+msgid "Footer Sidebar"
+msgstr ""
+
+#: ../inc/customize-colors.php:853
+msgid "In this section you can change colors for different elements."
+msgstr ""
+
+#: ../inc/customize-colors.php:858
+msgid "This option refresh theme colors."
+msgstr ""
+
+#: ../inc/customize-colors.php:916
+msgid "Opacity for the "
+msgstr ""
+
+#: ../inc/customize-fonts.php:15 ../inc/customize-fonts.php:390
+msgid "Fonts"
+msgstr ""
+
+#: ../inc/customize-fonts.php:16
+msgid "Choosing google fonts."
+msgstr ""
+
+#: ../inc/customize-fonts.php:23
+msgid "Google Fonts"
+msgstr ""
+
+#: ../inc/customize-fonts.php:24
+msgid "Copy and paste any Font Name from fonts.google.com"
+msgstr ""
+
+#: ../inc/customize-fonts.php:37
+msgid "Font-1 Name"
+msgstr ""
+
+#: ../inc/customize-fonts.php:69
+msgid "Font-2 Name"
+msgstr ""
+
+#: ../inc/customize-fonts.php:100
+msgid "Font-3 Name"
+msgstr ""
+
+#: ../inc/customize-fonts.php:130
+msgid "Add cyrillic subset"
+msgstr ""
+
+#: ../inc/customize-fonts.php:142
+msgid "Add greek subset"
+msgstr ""
+
+#: ../inc/customize-fonts.php:154
+msgid "Add vietnamese subset"
+msgstr ""
+
+#: ../inc/customize-fonts.php:163
+msgid "Google Fonts in Theme"
+msgstr ""
+
+#: ../inc/customize-fonts.php:164
+msgid "Apply Google Fonts to the theme"
+msgstr ""
+
+#: ../inc/customize-fonts.php:178
+msgid "Main Font"
+msgstr ""
+
+#: ../inc/customize-fonts.php:246
+msgid "Sub Menu"
+msgstr ""
+
+#: ../inc/customize-fonts.php:263
+msgid "H1-H6 Headings"
+msgstr ""
+
+#: ../inc/customize-fonts.php:297
+msgid "Category and Tags"
+msgstr ""
+
+#: ../inc/customize-fonts.php:314
+msgid "Meta Data"
+msgstr ""
+
+#: ../inc/customize-fonts.php:331
+msgid "Widget"
+msgstr ""
+
+#: ../inc/customize-fonts.php:348
+msgid "Widget Title"
+msgstr ""
+
+#: ../inc/customize-fonts.php:365
+msgid "Widget Link"
+msgstr ""
+
+#: ../inc/customize-fonts.php:375
+msgid "Font Schemes"
+msgstr ""
+
+#: ../inc/customize-fonts.php:376
+msgid "Default Font Scheme"
+msgstr ""
+
+#: ../inc/customize-fonts.php:395
+msgid "Hand Type"
+msgstr ""
+
+#: ../inc/customize-fonts.php:396
+msgid "Lato"
+msgstr ""
+
+#: ../inc/customize-fonts.php:397
+msgid "Main"
+msgstr ""
+
+#: ../inc/customize-fonts.php:398
+msgid "Narrow 1"
+msgstr ""
+
+#: ../inc/customize-fonts.php:399
+msgid "Thin"
+msgstr ""
+
+#: ../inc/customize-fonts.php:400
+msgid "Wider"
+msgstr ""
+
+#: ../inc/customize-fonts.php:401
+msgid "Narrow 2"
+msgstr ""
+
+#: ../inc/customize-fonts.php:402
+msgid "Spectral"
+msgstr ""
+
+#: ../inc/customize-fonts.php:901
+msgid "none"
+msgstr ""
+
+#: ../inc/customize-fonts.php:901
+msgid "Font 1"
+msgstr ""
+
+#: ../inc/customize-fonts.php:901
+msgid "Font 2"
+msgstr ""
+
+#: ../inc/customize-fonts.php:901
+msgid "Font 3"
+msgstr ""
+
+#: ../inc/customize-info.php:44
+msgid "Hi! Thank you for using Meditation! Help to the author by donation!"
+msgstr ""
+
+#: ../inc/customize-info.php:55
+msgid ""
+"Send your questions to WordPress support forums or directly to the author at "
+"infowpblogs@gmail.com"
+msgstr ""
+
+#: ../inc/customize-info.php:63 ../inc/customize-info.php:74
+#: ../inc/customize-info.php:75
+msgid "Donate"
+msgstr ""
+
+#: ../inc/customize-info.php:90 ../inc/customize-info.php:91
+msgid "View Support forum"
+msgstr ""
+
+#: ../inc/customize-info.php:106
+msgid "View Documentation"
+msgstr ""
+
+#: ../inc/customize-info.php:107
+msgid "Open"
+msgstr ""
+
+#: ../inc/customize-layout.php:16
+msgid "Layout"
+msgstr ""
+
+#: ../inc/customize-layout.php:17
+msgid "In this section you can change theme layout."
+msgstr ""
+
+#: ../inc/customize-layout.php:25
+msgid "Site size"
+msgstr ""
+
+#: ../inc/customize-layout.php:26
+msgid "The width of the site."
+msgstr ""
+
+#: ../inc/customize-layout.php:42
+msgid "Width of the site"
+msgstr ""
+
+#: ../inc/customize-layout.php:58 ../inc/customize-layout.php:96
+msgid "(px)"
+msgstr ""
+
+#: ../inc/customize-layout.php:80
+msgid "Width of the content area"
+msgstr ""
+
+#: ../inc/customize-layout.php:115
+msgid "Content style"
+msgstr ""
+
+#: ../inc/customize-layout.php:120 ../inc/customize-layout.php:137
+msgid "Boxed"
+msgstr ""
+
+#: ../inc/customize-layout.php:121 ../inc/customize-layout.php:138
+#: ../inc/customize-layout.php:639
+msgid "Full Width"
+msgstr ""
+
+#: ../inc/customize-layout.php:132
+msgid "Website style"
+msgstr ""
+
+#: ../inc/customize-layout.php:145
+msgid "Featured Image"
+msgstr ""
+
+#: ../inc/customize-layout.php:146
+msgid "Image Size"
+msgstr ""
+
+#: ../inc/customize-layout.php:158
+msgid ""
+"Width of the Featured Image (Images should be updated with Regenerate "
+"Thumbnails plugin)."
+msgstr ""
+
+#: ../inc/customize-layout.php:171
+msgid "Size of columns"
+msgstr ""
+
+#: ../inc/customize-layout.php:186
+msgid "Width of the first column (in case of two sidebars)"
+msgstr ""
+
+#: ../inc/customize-layout.php:202 ../inc/customize-layout.php:238
+#: ../inc/customize-layout.php:274 ../inc/customize-layout.php:310
+msgid "(%)"
+msgstr ""
+
+#: ../inc/customize-layout.php:223
+msgid "Width of the second column (two sidebars layout)"
+msgstr ""
+
+#: ../inc/customize-layout.php:258
+msgid "Width of the left column (1 sidebar layout)"
+msgstr ""
+
+#: ../inc/customize-layout.php:294
+msgid "Width of the right column (1 sidebar layout)"
+msgstr ""
+
+#: ../inc/customize-layout.php:334
+msgid "Display the footer on the front page"
+msgstr ""
+
+#: ../inc/customize-layout.php:345
+msgid "Post"
+msgstr ""
+
+#: ../inc/customize-layout.php:346
+msgid "Post settings."
+msgstr ""
+
+#: ../inc/customize-layout.php:358
+msgid "Post style"
+msgstr ""
+
+#: ../inc/customize-layout.php:375
+msgid "Button \"Read More\" Text"
+msgstr ""
+
+#: ../inc/customize-layout.php:389
+msgid "Display an empty icon"
+msgstr ""
+
+#: ../inc/customize-layout.php:404
+msgid "Display the post author"
+msgstr ""
+
+#: ../inc/customize-layout.php:419 ../inc/customize-layout.php:539
+msgid "Display the post date"
+msgstr ""
+
+#: ../inc/customize-layout.php:434
+msgid "Display the post views (from Jatpack plugin)"
+msgstr ""
+
+#: ../inc/customize-layout.php:449
+msgid "Display the link to post comments"
+msgstr ""
+
+#: ../inc/customize-layout.php:464
+msgid "Display meta text"
+msgstr ""
+
+#: ../inc/customize-layout.php:479 ../inc/customize-layout.php:602
+msgid "Display Featured Image"
+msgstr ""
+
+#: ../inc/customize-layout.php:494
+msgid "Display Category List"
+msgstr ""
+
+#: ../inc/customize-layout.php:509
+msgid "Display Tag List"
+msgstr ""
+
+#: ../inc/customize-layout.php:524
+msgid "Display the author"
+msgstr ""
+
+#: ../inc/customize-layout.php:554
+msgid "Display views (from Jatpack plugin)"
+msgstr ""
+
+#: ../inc/customize-layout.php:569
+msgid "Display link to comments"
+msgstr ""
+
+#: ../inc/customize-layout.php:586
+msgid "Page style"
+msgstr ""
+
+#: ../inc/customize-layout.php:617
+msgid "Excerpt"
+msgstr ""
+
+#: ../inc/customize-layout.php:619
+msgid "No Content"
+msgstr ""
+
+#: ../inc/customize-layout.php:640
+msgid "Left Column"
+msgstr ""
+
+#: ../inc/customize-layout.php:641
+msgid "Right Column"
+msgstr ""
+
+#: ../inc/customize-layout.php:642
+msgid "Two Columns"
+msgstr ""
+
+#: ../inc/customize-layout.php:654
+msgid "1 column"
+msgstr ""
+
+#: ../inc/customize-layout.php:655
+msgid "2 columns"
+msgstr ""
+
+#: ../inc/customize-layout.php:656
+msgid "3 columns"
+msgstr ""
+
+#: ../inc/customize-layout.php:657
+msgid "4 columns"
+msgstr ""
+
+#: ../inc/customize-layout.php:807
+msgid "Shop"
+msgstr ""
+
+#: ../inc/customize-layout.php:815
+msgid "Shop Page"
+msgstr ""
+
+#: ../inc/customize-layout.php:824
+msgid "Page"
+msgstr ""
+
+#: ../inc/customize-layout.php:840
+msgid "Post (Default)"
+msgstr ""
+
+#: ../inc/customize-layout.php:919
+msgid "Layout settings for "
+msgstr ""
+
+#: ../inc/customize-layout.php:931
+msgid " layout"
+msgstr ""
+
+#: ../inc/customize-layout.php:949
+msgid " layout (content)"
+msgstr ""
+
+#: ../inc/customize-other.php:15
+msgid "Other"
+msgstr ""
+
+#: ../inc/customize-other.php:16
+msgid "All other settings."
+msgstr ""
+
+#: ../inc/customize-other.php:23
+msgid "Scroll To Top Button"
+msgstr ""
+
+#: ../inc/customize-other.php:36
+msgid "How to display the scroll to top button"
+msgstr ""
+
+#: ../inc/customize-other.php:42
+msgid "Right"
+msgstr ""
+
+#: ../inc/customize-other.php:43
+msgid "Left"
+msgstr ""
+
+#: ../inc/customize-other.php:44
+msgid "Center"
+msgstr ""
+
+#: ../inc/customize-other.php:54
+msgid "How to animate the scroll to top button"
+msgstr ""
+
+#: ../inc/customize-other.php:60
+msgid "Jump"
+msgstr ""
+
+#: ../inc/customize-other.php:70
+msgid "Display Header Image on the Front Page only"
+msgstr ""
+
+#: ../inc/customize-other.php:84
+msgid "Display Header Text on the Front Page only"
+msgstr ""
+
+#: ../inc/customize-other.php:93
+msgid "Footer text"
+msgstr ""
+
+#: ../inc/customize-sidebars.php:23
+msgid "You can add custom sidebars for the page(s) \""
+msgstr ""
+
+#: ../inc/customize-sidebars.php:23
+msgid ""
+"\" by selecting options in this section. Default sidebars won't be shown on "
+"this page(s)."
+msgstr ""
+
+#: ../inc/customize-sidebars.php:24
+msgid "Default sidebars for all pages, post and custom post types."
+msgstr ""
+
+#: ../inc/customize-sidebars.php:39
+msgid "Register default sidebars for all pages"
+msgstr ""
+
+#: ../inc/customize-sidebars.php:41
+msgid "Add custom sidebars to "
+msgstr ""
+
+#: ../inc/customize-sidebars.php:41
+msgid "."
+msgstr ""
+
+#: ../inc/customize-sidebars.php:76
+msgid "Page ["
+msgstr ""
+
+#: ../inc/customize-sidebars.php:77
+msgid "Per page sidebars for the page ["
+msgstr ""
+
+#: ../inc/customize-sidebars.php:92
+msgid "Uncheck this mark to remove section and custom sidebars for the page ["
+msgstr ""
+
+#: ../inc/customize-sidebars.php:196
+msgid "["
+msgstr ""
+
+#: ../inc/customize-sidebars.php:196
+msgid "] "
+msgstr ""
+
+#: ../inc/customize.php:16
+msgid "Options"
+msgstr ""
+
+#: ../inc/customize.php:17
+msgid "Theme options."
+msgstr ""
+
+#: ../inc/customize.php:28
+msgid "Display Custom Colors Panel"
+msgstr ""
+
+#: ../inc/customize.php:43
+msgid "Display Theme Default Widgets"
+msgstr ""
+
+#: ../inc/customize.php:58
+msgid "Display \"Donate\" Section"
+msgstr ""
+
+#: ../inc/customize.php:66
+msgid "Header Color"
+msgstr ""
+
+#: ../inc/customize.php:73
+msgid "Background Color"
+msgstr ""
+
+#: ../inc/social-media-widget.php:12
+msgid "Display Social Media Links."
+msgstr ""
+
+#: ../inc/social-media-widget.php:21
+msgid "Social Media Icons"
+msgstr ""
+
+#: ../inc/social-media-widget.php:80
+msgid "Title: "
+msgstr ""
+
+#: ../inc/social-media-widget.php:82
+msgid "Small Icons."
+msgstr ""
+
+#: ../inc/social-media-widget.php:83
+msgid "Vertical Icons."
+msgstr ""
+
+#: ../inc/widget-functions.php:81
+msgid "Image Url or Id:"
+msgstr ""
+
+#: ../inc/widget-functions.php:83 ../inc/widget-functions.php:106
+msgid "Upload Image"
+msgstr ""
+
+#: ../inc/widget-functions.php:104
+msgid "Url:"
+msgstr ""
+
+#: ../page-templates/full-contact.php:9
+msgid "Contact Template"
+msgstr ""
+
+#: ../page-templates/full-width.php:9
+msgid "Full Width Template"
+msgstr ""
+
+#: ../page-templates/left-sidebar.php:9
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../page-templates/right-sidebar.php:9
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../page-templates/two-sidebars.php:9
+msgid "Two Sidebars"
+msgstr ""
+
+#: ../search.php:21
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: ../tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
