@@ -85,5 +85,8 @@ define('WP_DEBUG', false);
 if ( !defined('ABSPATH') )
 	define('ABSPATH', dirname(__FILE__) . '/');
 
+/* Automatic Fixing of DBs */
+define('WP_ALLOW_REPAIR', true);
+
 /** Sets up WordPress vars and included files. */
 require_once(ABSPATH . 'wp-settings.php');
